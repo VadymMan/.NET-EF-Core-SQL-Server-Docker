@@ -1,4 +1,4 @@
-generate Web API application using top level statements (not Minimal API) in the target directory:
+generate Web API application (not Minimal API) in the target directory:
 cd <target_dir>
 dotnet new webapi -n SalesApi --no-https true --no-openapi true
 
