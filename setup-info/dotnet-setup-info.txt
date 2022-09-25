@@ -6,3 +6,7 @@ add required Nugets:
 cd SalesApi
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package AutoFixture
+
+dotnet run:
+cd <dir_with_csproj>
+dotnet run
